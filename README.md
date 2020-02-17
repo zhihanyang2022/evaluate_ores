@@ -1,4 +1,6 @@
-# Evaluating ORES: A machine-learning-based article-quality classifier for Wikipedia
+# Evaluating ORES
+
+ORES is a machine-learning-based article-quality classifier for Wikipedia.
 
 ## Motivation
 

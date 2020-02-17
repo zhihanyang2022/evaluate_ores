@@ -22,7 +22,7 @@ The number of external links and the total number of pageviews (over 60 days, fr
 
 ## Results
 
-We can see that the increment in article credibility is very small from quality classification to B to GA.
+We can see that the increment in article credibility is very small (for mean) / negative (for median) from quality classification to B to GA.
 
 <img src="https://github.com/zhihanyang2022/evaluate_ores/blob/master/external_links_vs_quality_ratings.png" alt="drawing" width="500"/>
 

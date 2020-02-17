@@ -28,4 +28,4 @@ We can see that the increment in article credibility is very small (for mean) / 
 
 ## Conclusion
 
-Because the increment in article credibility is very small from quality classification to B to GA, we might need to doubt the accuracy of the ORES classifier.
+Since the increment in article credibility is very small from quality classification to B to GA, we might need to doubt the accuracy of the ORES classifier.
